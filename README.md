@@ -36,9 +36,12 @@ haven't shipped an LLM system. I'm going after the overlap.
 
 | Project | What it does | Stack |
 |---|---|---|
-| [fabric-medallion-pipeline](https://github.com/Asim-Nadaf/fabric-medallion-pipeline) | End-to-end Bronze→Silver→Gold pipeline in Microsoft Fabric | Fabric · PySpark · Delta · T-SQL |
+| **fabric-medallion-pipeline** 🚧 | End-to-end Bronze→Silver→Gold pipeline in Microsoft Fabric | Fabric · PySpark · Delta · T-SQL |
+
+<!-- Link each project once its repo is public. A link to a private repo shows visitors a 404. -->
 
 ---
 
-<!-- TODO(Asim): add your LinkedIn. It's the single highest-value link on this page. -->
-📫 **Reach me:** [LinkedIn](#) · asimnadaf1994@gmail.com
+<!-- TODO(Asim): replace YOUR-HANDLE below with your real LinkedIn URL.
+     It's the single highest-value link on this page. -->
+📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
