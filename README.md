@@ -44,6 +44,4 @@ whether anything built on top of it is any good.
 
 ---
 
-<!-- TODO(Asim): replace YOUR-HANDLE below with your real LinkedIn URL.
-     It's the single highest-value link on this page. -->
-📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
+📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/asim-nadaf)
