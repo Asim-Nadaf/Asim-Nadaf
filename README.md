@@ -1,38 +1,40 @@
-# Hi, I'm Asim 👋
+# Asim Nadaf
 
-**Data Engineer (8 years) moving into AI Engineering.**
+**Data professional — analytics, data engineering, and AI.**
 
-I build data pipelines for a living and I'm now building the AI systems that sit on top of them.
-Most people in AI engineering have never run a production data platform; most data engineers
-haven't shipped an LLM system. I'm going after the overlap.
+Eight years turning messy data into things people can actually make decisions with. I work across
+the whole path: modelling and pipelines at one end, the reporting layer and now AI systems at
+the other. My interest sits where those meet — the data platform underneath is what determines
+whether anything built on top of it is any good.
 
 <!-- TODO(Asim): add your location + whether you're open to work. Recruiters filter on both.
-     e.g. "📍 Dubai, UAE · open to AI/Data Engineering roles" -->
+     e.g. "📍 Dubai, UAE · open to Data / Analytics Engineering roles" -->
 
 ---
 
-### What I'm working on now
+### What I work on
 
-- 🎓 **Microsoft Fabric — DP-700** (Fabric Data Engineer)
-- 🤖 **AWS Certified AI Practitioner** — in progress
-- 🚀 **BeSA — Agentic AI: POC → Production on AWS** (live cohort)
-- 🔨 Building toward a flagship project: **a RAG system grounded on a Fabric medallion warehouse**
+**Analytics** — semantic models, DAX, Power BI, turning ambiguous questions into measures that hold up
+
+**Data engineering** — Bronze/Silver/Gold pipelines, PySpark, Delta Lake, T-SQL, orchestration and scheduling
+
+**AI** — RAG systems, agents, and MCP servers grounded on real warehouse data rather than toy documents
 
 ---
 
 ### Stack
 
-**Data** · Microsoft Fabric · PySpark · Delta Lake · T-SQL · KQL · Power BI
-**AI** · Python · RAG · LangChain / LangGraph · ChromaDB · MCP
-**Cloud** · AWS (Bedrock, Lambda, S3) · Azure
-**Ops** · Docker · GitHub Actions
+**Data** · Microsoft Fabric · PySpark · Delta Lake · SQL · KQL · Power BI · DAX
+**AI** · Python · RAG · LangChain / LangGraph · vector databases · MCP
+**Cloud** · AWS · Azure
+**Ops** · Git · Docker · CI/CD
 
 ---
 
 ### Selected projects
 
-<!-- TODO(Asim): fill these in as each repo goes public. Delete the rows you haven't built yet —
-     an empty table reads worse than a short one. -->
+<!-- TODO(Asim): link each project once its repo is public, and delete rows you haven't built.
+     A short honest table reads better than a long aspirational one. -->
 
 | Project | What it does | Stack |
 |---|---|---|
